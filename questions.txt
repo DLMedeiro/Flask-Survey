@@ -15,3 +15,5 @@ Step Seven: Flash Messages
     Using flash, if the user does try to tinker with the URL and visit questions out of order, flash a message telling them they’re trying to access an invalid question as part of your redirect.
 
 3. __pycache__ file showing on git status but also included within the .gitignore file?
+
+4. Did I complete the github process correctly?
