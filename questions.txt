@@ -17,3 +17,6 @@ Step Seven: Flash Messages
 3. __pycache__ file showing on git status but also included within the .gitignore file?
 
 4. Did I complete the github process correctly?
+
+5. This keeps appearing..?
+        from werkzeug.utils import redirect
